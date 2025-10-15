@@ -48,18 +48,4 @@ It tests image response times in real time and provides instant insights for opt
 3. **Analysis** – Calculates the fastest average time and highlights the best-performing link.  
 4. **Display** – Shows all results with their respective load times and images.
 
----
-
-
----
-
-✅ **How to use it:**
-1. Copy this entire code into your project’s root folder as a file named `README.md`.  
-2. Add your screenshots in `assets/screenshots/` and update the image paths.  
-3. Commit and push — GitHub will render it beautifully on your repo page.
-
----
-
-Would you like me to add **a “Demo Video / GIF Preview” section** (with Markdown that auto-embeds your app demo when you upload a `.gif` or YouTube link)?  
-That makes the README look even more polished for recruiters or open-source viewers.
 
